@@ -54,7 +54,6 @@ Transform your Flutter app's first impression with **professionally designed, an
 | **🎨 Splash Screens** | 32+ | Production-ready animated screens | 
 | **📝 Documentation** | Complete | Line-by-line explanations |  
 | **🔧 Customization Guide** | Detailed | Brand integration examples |  
-| **⚡ Performance Optimization** | Built-in | 60 FPS guaranteed | 
 | **📱 Cross-Platform Support** | Full | iOS, Android, Web, Desktop | 
 | **🎯 Commercial License** | Included | Unlimited projects | 
 | **💬 Email Support** | 1 Year | Direct developer support | 
