@@ -9,7 +9,7 @@
 
 **32+ Professional Splash Screens** - Save 640+ hours of development time with production-ready, animated splash screens for Flutter applications.
 
-[🚀 **Get Full Source Code**](https://ko-fi.com/amirhosseinbayat) | [📱 **Live Demo**](#live-demo) | [📖 **Documentation**](#documentation) | [💬 **Support**](#support)
+[🚀 **Get Full Source Code**](https://ko-fi.com/s/877f912d05) | [📱 **Live Demo**](#live-demo) | [📖 **Documentation**](#documentation) | [💬 **Support**](#support)
 
 </div>
 
@@ -30,24 +30,11 @@ Transform your Flutter app's first impression with **professionally designed, an
   
 ---
 
-## 🎯 **Live Demo**
-
-> **🎬 See all splash screens in action!**
-
 <div align="center">
 
-### Featured Splash Screens
+### ScreenShots
 
-| 🎵 **Music & Audio** | 🎮 **Gaming** | 🏢 **Business** | 🛍️ **E-commerce** |
-|:---:|:---:|:---:|:---:|
-| ![Spotify Style](https://via.placeholder.com/200x350/1DB954/white?text=Spotify+Vibes) | ![Interactive](https://via.placeholder.com/200x350/ff6b6b/white?text=Interactive+Touch) | ![Zen Style](https://via.placeholder.com/200x350/F7F8FC/333333?text=Minimalist+Zen) | ![Nike Style](https://via.placeholder.com/200x350/000000/white?text=Power+Swoosh) |
-| Spotify-inspired with pulsing animations | Touch-responsive with ripple effects | Clean, professional with breathing rhythms | Dynamic swoosh with power animations |
-
-| 🌿 **Health & Nature** | 🎨 **Modern Effects** | 📱 **Social Media** | ⭐ **Premium** |
-|:---:|:---:|:---:|:---:|
-| ![Nature](https://via.placeholder.com/200x350/56ab2f/white?text=Nature+Bloom) | ![Glass](https://via.placeholder.com/200x350/667eea/white?text=Glass+Morphism) | ![Instagram](https://via.placeholder.com/200x350/833AB4/white?text=Rainbow+Flow) | ![Hologram](https://via.placeholder.com/200x350/000000/white?text=3D+Hologram) |
-| Plant growth with organic movements | Frosted glass with modern aesthetics | Path drawing with gradient morphing | 3D transforms with holographic effects |
-
+ 
 </div>
 
 **📱 [View Interactive Demo →](https://flexysplash-demo.web.app)**
@@ -62,17 +49,15 @@ Transform your Flutter app's first impression with **professionally designed, an
 
 </div>
 
-| Component | Count | Description | Value |
-|-----------|-------|-------------|-------|
-| **🎨 Splash Screens** | 32+ | Production-ready animated screens | $48,000+ |
-| **📝 Documentation** | Complete | Line-by-line explanations | $2,000+ |
-| **🔧 Customization Guide** | Detailed | Brand integration examples | $1,000+ |
-| **⚡ Performance Optimization** | Built-in | 60 FPS guaranteed | $1,500+ |
-| **📱 Cross-Platform Support** | Full | iOS, Android, Web, Desktop | $2,000+ |
-| **🎯 Commercial License** | Included | Unlimited projects | $1,000+ |
-| **💬 Email Support** | 1 Year | Direct developer support | $500+ |
-
-### **💰 Total Value: $56,000+ | Your Price: $57**
+| Component | Count | Description |
+|-----------|-------|-------------|
+| **🎨 Splash Screens** | 32+ | Production-ready animated screens | 
+| **📝 Documentation** | Complete | Line-by-line explanations |  
+| **🔧 Customization Guide** | Detailed | Brand integration examples |  
+| **⚡ Performance Optimization** | Built-in | 60 FPS guaranteed | 
+| **📱 Cross-Platform Support** | Full | iOS, Android, Web, Desktop | 
+| **🎯 Commercial License** | Included | Unlimited projects | 
+| **💬 Email Support** | 1 Year | Direct developer support | 
 
 ---
 
@@ -164,35 +149,12 @@ Cutting-edge animations with advanced effects:
 
 </details>
 
----
-
-## 🚀 **Performance Metrics**
-
-<div align="center">
-
-| Device Category | Animation FPS | Memory Usage | Load Time | User Rating |
-|----------------|---------------|--------------|-----------|-------------|
-| **iPhone 14 Pro** | 60 FPS | 42MB | 1.1s | ⭐⭐⭐⭐⭐ |
-| **Pixel 7** | 60 FPS | 48MB | 1.3s | ⭐⭐⭐⭐⭐ |
-| **iPhone SE** | 58 FPS | 38MB | 1.6s | ⭐⭐⭐⭐⭐ |
-| **Budget Android** | 55 FPS | 45MB | 2.1s | ⭐⭐⭐⭐ |
-
-</div>
-
-### ⚡ **Technical Excellence**
-- **60 FPS** smooth animations on all modern devices
-- **Memory optimized** with proper cleanup and disposal
-- **Battery efficient** using optimized animation patterns
-- **App store ready** - passes all review guidelines
-
----
-
 ## 🛠️ **Easy Integration**
 
 ### **Step 1: Get the Source Code**
 ```bash
 # Purchase and download from Ko-Fi
-https://ko-fi.com/amirhosseinbayat
+https://ko-fi.com/s/877f912d05
 ```
 
 ### **Step 2: Choose Your Style**
@@ -261,30 +223,6 @@ flutter run --release
 
 ---
 
-## 💬 **Developer Testimonials**
-
-<div align="center">
-
-> *"FlexySplash saved me 3 weeks on my last project. My client was blown away by the professional splash screen. Worth every penny!"*
-> 
-> **— Sarah Chen**, *Freelance Flutter Developer*
-
-> *"We've used FlexySplash for 12 client projects. It's become our secret weapon for impressive demos and faster delivery."*
-> 
-> **— Mike Rodriguez**, *Mobile Development Agency*
-
-> *"The documentation is incredible. I learned more about Flutter animations from this package than from any course."*
-> 
-> **— Alex Thompson**, *Computer Science Student*
-
-> *"ROI was immediate. Clients now specifically request our 'signature splash screens' - it's become our differentiator."*
-> 
-> **— Jennifer Liu**, *App Development Studio*
-
-</div>
-
----
-
 ## 📋 **Technical Specifications**
 
 ### **🔧 Requirements**
@@ -323,37 +261,14 @@ dependencies:
 
 ### **📚 What You Also Get**
 
-| Bonus Item | Description | Value |
-|------------|-------------|-------|
-| **🔧 Implementation Guide** | Step-by-step integration tutorial | $299 |
-| **🎨 Customization Handbook** | Brand integration examples | $199 |
-| **⚡ Performance Guide** | Optimization best practices | $149 |
-| **📱 Demo App** | See all screens in action | $99 |
-| **💡 Animation Patterns** | Reusable animation techniques | $249 |
-| **🐛 Troubleshooting Guide** | Common issues and solutions | $99 |
-
-**Total Bonus Value: $1,094 - Included FREE!**
-
----
-
-## 🔥 **Limited Time Offer**
-
-<div align="center">
-
-### **⚡ Launch Special**
-
-~~$127~~ **$57** (Save $70!)
-
-✅ **All 32+ Splash Screens**  
-✅ **Complete Documentation**  
-✅ **Commercial License**  
-✅ **1 Year Email Support**  
-✅ **Free Updates**  
-✅ **30-Day Money-Back Guarantee**
-
-**🚨 Only 100 copies at this price!**
-
-</div>
+| Bonus Item | Description |
+|------------|-------------| 
+| **🔧 Implementation Guide** | Step-by-step integration tutorial | 
+| **🎨 Customization Handbook** | Brand integration examples | 
+| **⚡ Performance Guide** | Optimization best practices |  
+| **📱 Demo App** | See all screens in action |  
+| **💡 Animation Patterns** | Reusable animation techniques | 
+| **🐛 Troubleshooting Guide** | Common issues and solutions |  
 
 ---
 
@@ -382,8 +297,7 @@ FlexySplash/
 ├── 📄 LICENSE                         # Commercial license
 ├── 📄 README.md                       # This documentation
 ├── 📄 IMPLEMENTATION_GUIDE.md         # Integration tutorial
-├── 📄 CLIENT_USAGE_GUIDE.md          # Simple usage guide
-└── 📄 CUSTOMIZATION_EXAMPLES.md      # Brand integration
+└── 📄 CLIENT_USAGE_GUIDE.md          # Simple usage guide
 ```
 
 ---
@@ -426,9 +340,8 @@ class SpotifySplashScreen extends BaseSplashScreen {
 | Traditional Development | FlexySplash Solution |
 |:----------------------:|:-------------------:|
 | ❌ 20+ hours per splash | ✅ 5 minutes setup |
-| ❌ $1,500+ development cost | ✅ $57 total investment |
+| ❌ $1,500+ development cost | ✅ $49 total investment |
 | ❌ Trial and error learning | ✅ Proven best practices |
-| ❌ Performance issues | ✅ 60 FPS guaranteed |
 | ❌ No documentation | ✅ Line-by-line explanations |
 | ❌ Platform compatibility issues | ✅ Cross-platform tested |
 
@@ -449,9 +362,9 @@ class SpotifySplashScreen extends BaseSplashScreen {
 
 ### **Ready to Impress Your Users?**
 
-**[🛒 Get Full Source Code - $57](https://ko-fi.com/amirhosseinbayat)**
+**[🛒 Get Full Source Code - $49](https://ko-fi.com/s/877f912d05)**
 
-*Instant download • Commercial license • 30-day guarantee*
+*Instant download • Commercial license*
 
 </div>
 
@@ -473,9 +386,9 @@ class SpotifySplashScreen extends BaseSplashScreen {
 - **🔧 Support Includes**: Integration help, customization guidance, troubleshooting
 
 ### **🌐 Connect**
-- **💼 LinkedIn**: [AmirHossein Bayat](https://linkedin.com/in/amirhosseinbayat)
+- **💼 LinkedIn**: [AmirHossein Bayat](https://www.linkedin.com/in/amirhossein-bayat-9288a4225)
 - **📱 Instagram**: [@codewithflexz](https://instagram.com/codewithflexz)
-- **🐦 Twitter**: [@amirbayat_dev](https://twitter.com/amirbayat_dev)
+- **📱 Telegram**: [@codewithflexz](https://tlgrm.in/Codewithflexz)
 
 ### **❓ FAQ**
 
@@ -499,11 +412,6 @@ Email support is included for 1 year. We'll help you succeed.
 Yes! New splash screens are added regularly at no extra cost.
 </details>
 
-<details>
-<summary><strong>What's your refund policy?</strong></summary>
-30-day money-back guarantee. No questions asked.
-</details>
-
 ---
 
 ## ⚖️ **License**
@@ -520,21 +428,21 @@ Yes! New splash screens are added regularly at no extra cost.
 
 <div align="center">
 
-## 🎉 **Join 500+ Satisfied Developers**
+## 🎉 **Join US**
 
 **Transform your Flutter apps today with professional splash screens that users will love!**
 
-### **[🚀 Get FlexySplash Now - $57](https://ko-fi.com/amirhosseinbayat)**
+### **[🚀 Get FlexySplash Now - $49](https://ko-fi.com/s/877f912d05)**
 
 *Save 640+ hours • Impress your users • Boost your revenue*
 
 ---
 
-**Made with ❤️ by [AmirHossein Bayat](https://github.com/amirhosseinbayat)**
+**Made with ❤️ by [AmirHossein Bayat](https://github.com/amirbayat0)**
 
 *Professional Flutter Development Solutions*
 
-[![Ko-Fi](https://img.shields.io/badge/Support%20Me-Ko--Fi-ff5722.svg)](https://ko-fi.com/amirhosseinbayat)
-[![GitHub followers](https://img.shields.io/github/followers/amirhosseinbayat?style=social)](https://github.com/amirhosseinbayat)
+[![Ko-Fi](https://img.shields.io/badge/Support%20Me-Ko--Fi-ff5722.svg)](https://ko-fi.com/flexz)
+[![GitHub followers](https://img.shields.io/github/followers/amirbayat0?style=social)](https://github.com/amirbayat0)
 
 </div>
