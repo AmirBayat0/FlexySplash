@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Flutter Version](https://img.shields.io/badge/Flutter-3.8%2B-blue.svg)](https://flutter.dev/)
+[![Flutter Version](https://img.shields.io/badge/Flutter-3.32%2B-blue.svg)](https://flutter.dev/)
 [![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-lightgrey.svg)](https://flutter.dev/)
 [![License](https://img.shields.io/badge/License-Commercial-green.svg)](#license)
-[![Ko-Fi](https://img.shields.io/badge/Get%20Source%20Code-Ko--Fi-ff5722.svg)](https://ko-fi.com/amirhosseinbayat)
+[![Ko-Fi](https://img.shields.io/badge/Get%20Source%20Code-Ko--Fi-ff5722.svg)]([https://ko-fi.com/amirhosseinbayat](https://ko-fi.com/s/877f912d05))
 
 **32+ Professional Splash Screens** - Save 640+ hours of development time with production-ready, animated splash screens for Flutter applications.
 
@@ -94,59 +94,25 @@ Engaging animations for games and interactive apps:
 </details>
 
 <details>
-<summary><strong>🏢 Business & Professional (6 Screens)</strong></summary>
-
-Clean, sophisticated designs for corporate apps:
-
-- **Minimalist Zen** - Calm with breathing rhythms
-- **Glass Morphism** - Modern frosted glass effects
-- **LinkedIn Pro** - Professional networking theme
-- **Slack Connect** - Team collaboration aesthetics
-- **Corporate Elite** - Executive-level sophistication
-- **Data Insights** - Analytics and metrics theme
+<summary><strong>🏢 Business & Professional</strong></summary>
+Clean, sophisticated designs for corporate apps!
 
 </details>
 
 <details>
-<summary><strong>🛍️ E-commerce & Lifestyle (8 Screens)</strong></summary>
-
-Brand-inspired designs for commerce and lifestyle:
-
-- **Nike Power** - Dynamic swoosh with motivation
-- **Instagram Flow** - Rainbow gradients with social vibes
-- **Pinterest Grid** - Visual discovery with grid animations
-- **Airbnb Welcome** - Warm, inviting travel theme
-- **Coca Cola Fizz** - Refreshing bubble physics
-- **Fashion Forward** - Elegant style for fashion apps
-- **Shopping Cart** - E-commerce focused animations
-- **Luxury Brand** - Premium high-end aesthetics
-
+<summary><strong>🛍️ E-commerce & Lifestyle </strong></summary>
+ Brand-inspired designs for commerce and lifestyle!
 </details>
 
 <details>
-<summary><strong>🌿 Health & Nature (4 Screens)</strong></summary>
-
-Wellness-focused with natural elements:
-
-- **Nature Bloom** - Plant growth with organic colors
-- **Liquid Morph** - Fluid animations with health theme
-- **Zen Garden** - Peaceful meditation aesthetics
-- **Fitness Tracker** - Health monitoring visualizations
-
+<summary><strong>🌿 Health & Nature</strong></summary>
+Wellness-focused with natural elements!
 </details>
 
 <details>
-<summary><strong>🎨 Modern Effects (6+ Screens)</strong></summary>
-
-Cutting-edge animations with advanced effects:
-
-- **3D Hologram** - Dimensional transforms
-- **Geometric Dance** - Sacred geometry with movement
-- **Loading Stories** - Narrative-driven progress
-- **Particle Storm** - High-energy cosmic effects
-- **Morphing Shapes** - Dynamic form transformations
-- **Crystal Reflections** - Prismatic light effects
-
+<summary><strong>🎨 Modern Effects</strong></summary>
+Cutting-edge animations with advanced effects!
+ 
 </details>
 
 ## 🛠️ **Easy Integration**
