@@ -80,16 +80,8 @@ Perfect for music streaming, podcast apps, audio tools:
 </details>
 
 <details>
-<summary><strong>🎮 Gaming & Entertainment (6 Screens)</strong></summary>
-
-Engaging animations for games and interactive apps:
-
-- **Interactive Touch** - Touch-responsive with gesture effects
-- **Neon Cyberpunk** - Futuristic with glitch effects
-- **Particle Galaxy** - Space-themed with stellar particles
-- **TikTok Pulse** - Social media vibes with neon glows
-- **Gaming Arena** - Competitive gaming aesthetics
-- **Retro Arcade** - Classic gaming nostalgia
+<summary><strong>🎮 Gaming & Entertainment</strong></summary>
+Engaging animations for games and interactive apps!
 
 </details>
 
