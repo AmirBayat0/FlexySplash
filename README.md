@@ -64,18 +64,8 @@ Transform your Flutter app's first impression with **professionally designed, an
 ## 📊 **Categories & Use Cases**
 
 <details>
-<summary><strong>🎵 Music & Audio (8 Screens)</strong></summary>
-
-Perfect for music streaming, podcast apps, audio tools:
-
-- **Spotify Vibes** - Pulsing animations with dynamic particles
-- **Voice Wave** - Real-time wave animations with microphone effects  
-- **Apple Music** - Floating elements with glass morphism
-- **Discord Sync** - Wave synchronization with gaming aesthetics
-- **Audio Pro** - Professional studio-quality visualizations
-- **Sound Bars** - Equalizer-style animated bars
-- **Rhythm Pulse** - Beat-synchronized pulsing effects
-- **Frequency Flow** - Spectrum analyzer animations
+<summary><strong>🎵 Music & Audio</strong></summary>
+Perfect for music streaming, podcast apps, audio tools!
 
 </details>
 
