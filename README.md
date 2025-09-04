@@ -174,8 +174,8 @@ flutter run --release
 ## 📋 **Technical Specifications**
 
 ### **🔧 Requirements**
-- Flutter 3.8.1 or higher
-- Dart 3.0.0 or higher
+- Flutter 3.32.8 or higher
+- Dart 3.8.0 or higher
 - iOS 11.0+ / Android API 21+
 - 2GB RAM minimum for development
 
