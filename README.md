@@ -67,9 +67,8 @@ Transform your Flutter app's first impression with **professionally designed, an
   <img src="https://github.com/user-attachments/assets/1fce0847-0b52-4679-86cc-523af931e843" width="300" />
   <img src="https://github.com/user-attachments/assets/14a1884c-f79d-4bdd-ae1f-ca058a2ae4c2" width="300" />
   <img src="https://github.com/user-attachments/assets/c5475090-6a37-4ae3-ad9d-dc5034b1b5a8" width="300" />
-
-  <img src="" width="300" />
-  <img src="" width="300" />
+  <img src="https://github.com/user-attachments/assets/0339a2b4-f1d1-4558-a9f6-92c285e8eeff" width="300" />
+  <img src="https://github.com/user-attachments/assets/f31159ab-86d3-4478-bd40-553fb7e75340" width="300" />
 </p>
 
 
