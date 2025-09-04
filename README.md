@@ -26,7 +26,7 @@ Transform your Flutter app's first impression with **professionally designed, an
 
 ### 💰 **Massive Value**
 - **640+ hours** of development time saved
-- **$32,000+** worth of professional animation work
+- **$10,000+** worth of professional animation work
 - **Your investment**: Just $57 (99.9% savings!)
 
 ---
