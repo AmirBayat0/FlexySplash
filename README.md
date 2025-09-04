@@ -386,7 +386,7 @@ Yes! New splash screens are added regularly at no extra cost.
 
 ---
 
-**Made with ❤️ by [Amir Bayat](https://github.com/amirbayat0)**
+**Made with ❤️ by [Code With FlexZ Team](https://github.com/amirbayat0)**
 
 *Professional Flutter Development Solutions*
 
