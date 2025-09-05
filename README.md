@@ -9,7 +9,7 @@
 
 **32+ Professional Splash Screens** - Save 640+ hours of development time with production-ready, animated splash screens for Flutter applications.
 
-[🚀 **Get Full Source Code**](https://ko-fi.com/s/877f912d05) | [📱 **Live Demo**](#live-demo)
+[🚀 **Get Full Source Code**](https://ko-fi.com/s/877f912d05) | [📱 **Live Demo**](https://flexysplash.pages.dev/)
 
 </div>
 
@@ -74,7 +74,7 @@ Transform your Flutter app's first impression with **professionally designed, an
 
 </div>
 
-**📱 [View Interactive Demo →](Soon!)**
+**📱 [View Interactive Demo →](https://flexysplash.pages.dev/)**
 
 ---
 
