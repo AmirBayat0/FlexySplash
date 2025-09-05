@@ -74,7 +74,7 @@ Transform your Flutter app's first impression with **professionally designed, an
 
 </div>
 
-**📱 [View Interactive Demo →](https://flexysplash-demo.web.app)**
+**📱 [View Interactive Demo →](Soon!)**
 
 ---
 
